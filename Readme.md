@@ -26,6 +26,8 @@ Haram filterer is a software that protects the muslim with the will of Allah aaz
 
 Haram Filter uses a number of open source projects to work properly:
 
+- [node.js] - Creating a dns server with super powers!
+
 
 And of course Haram Filter itself is open source with a [public repository][dill]
  on GitHub.
@@ -66,4 +68,4 @@ MIT
    [git-repo-url]: <https://github.com/ALWISHARIFF/haram-filter>
 
 
-
+  [node.js]: <http://nodejs.org>
