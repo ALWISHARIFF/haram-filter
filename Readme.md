@@ -3,13 +3,11 @@
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 Haram filter is a software that would filter out any unislamic innapropriate images,sounds and advertisment.
-This will consist of creating a_:
-- android/ios application
-- Windows/linux application
-- Server application (DNS FILTERER & More Features to come)
+This will consist of creating :
+- Browser Extension
 
 ## Features
 
@@ -26,26 +24,23 @@ Haram filterer is a software that protects the muslim with the will of Allah aaz
 
 Haram Filter uses a number of open source projects to work properly:
 
-- [node.js] - Creating a dns server with super powers!
+- [node.js] - Creating a chrome browser extension
 
-
-And of course Haram Filter itself is open source with a [public repository][dill]
- on GitHub.
 
 ## Installation
 
-## Plugins
+## Guide on Development
 
-Haram Filter is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
+Haram Filter is based on a web browser extension as for now below are some links to guide on creating browser extensions
+Please study these links
 
-| Plugin | README |
-| ------ | ------ |
+- Creating a cross browser extension
 
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Build_a_cross_browser_extension 
 
 ## Development
 
-Want to earn rewards contribute to the ummah now! 
+Want to earn rewards do something great for the ummah now! 
 
 
 
